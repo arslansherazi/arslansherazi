@@ -40,6 +40,7 @@ Machine learning, data science, full stack development, AI, and data scrapping a
                 <img src="https://user-images.githubusercontent.com/49757918/196778214-a9478082-092b-499e-a91a-9c5d74da6d0d.png" width="80" height="75" style="margin-top: 20px" />&nbsp;&nbsp;&nbsp;&nbsp;
             <img src="https://user-images.githubusercontent.com/49757918/196777832-58706a36-5e97-4b94-86c7-bfeff3ed4087.png" width="180" height="75" style="margin-top: 20px" />&nbsp;&nbsp;&nbsp;&nbsp;
               <img src="https://user-images.githubusercontent.com/49757918/196777990-1ca0ca17-d788-4762-83ca-1ca5bdab9585.png" width="180" height="75" style="margin-top: 20px" />&nbsp;&nbsp;&nbsp;&nbsp;
+                <img src="https://user-images.githubusercontent.com/49757918/196778846-8c4e2df3-aec2-4694-b581-cc5b3989e27f.png" width="120" height="75" style="margin-top: 20px" />&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 
