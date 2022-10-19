@@ -21,3 +21,7 @@ Currently, I work with various full stack development tools and technologies suc
   for mobile apps.
 
 Machine learning, data science, full stack development, AI, and data scrapping are some of the many fields that interest me, and I plan to keep learning new skills and improving them in these fields.
+
+![image](https://user-images.githubusercontent.com/49757918/196769658-01275b7a-d4e4-4360-a937-6f38dc7704d5.png)
+![image](https://user-images.githubusercontent.com/49757918/196769711-8f4e5a45-f03a-4da1-84a8-47cb76d8be82.png)
+
