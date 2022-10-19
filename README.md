@@ -23,12 +23,12 @@ Currently, I work with various full stack development tools and technologies suc
 Machine learning, data science, full stack development, AI, and data scrapping are some of the many fields that interest me, and I plan to keep learning new skills and improving them in these fields. <br><br>
 
 
-<img src="https://user-images.githubusercontent.com/49757918/196772685-051798b5-e3bb-4d31-a93e-348f92e36228.png" width="75" height="75" />
-<img src="https://user-images.githubusercontent.com/49757918/196772836-401d2088-6dd6-404d-ad84-f47ff2e2aad7.png" width="75" height="75" />
-<img src="https://user-images.githubusercontent.com/49757918/196773040-6b78c72a-fe40-48b2-9914-43bc0e68df00.png" width="75" height="75" />
-<img src="https://user-images.githubusercontent.com/49757918/196773280-1a05b455-01f4-4690-9936-e491abe95f3f.png" width="75" height="75" />
-<img src="https://user-images.githubusercontent.com/49757918/196773390-724d5dcc-8be1-4a03-8ac2-cf99139f6f7e.png" width="75" height="75" />
-<img src="https://user-images.githubusercontent.com/49757918/196773469-655514c8-7f86-4cea-8277-a7347057a600.png" width="75" height="75" />
+<img src="https://user-images.githubusercontent.com/49757918/196772685-051798b5-e3bb-4d31-a93e-348f92e36228.png" width="90" height="75" />
+<img src="https://user-images.githubusercontent.com/49757918/196772836-401d2088-6dd6-404d-ad84-f47ff2e2aad7.png" width="90" height="75" />
+<img src="https://user-images.githubusercontent.com/49757918/196773040-6b78c72a-fe40-48b2-9914-43bc0e68df00.png" width="90" height="75" />
+<img src="https://user-images.githubusercontent.com/49757918/196773280-1a05b455-01f4-4690-9936-e491abe95f3f.png" width="90" height="75" />
+<img src="https://user-images.githubusercontent.com/49757918/196773390-724d5dcc-8be1-4a03-8ac2-cf99139f6f7e.png" width="90" height="75" />
+<img src="https://user-images.githubusercontent.com/49757918/196773469-655514c8-7f86-4cea-8277-a7347057a600.png" width="90" height="75" />
 
 
 
