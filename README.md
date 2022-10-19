@@ -22,6 +22,8 @@ Currently, I work with various full stack development tools and technologies suc
 
 Machine learning, data science, full stack development, AI, and data scrapping are some of the many fields that interest me, and I plan to keep learning new skills and improving them in these fields.
 
+
+
 ![image](https://user-images.githubusercontent.com/49757918/196770545-b3483844-1117-4b38-8e1c-04e249316834.png)
 ![image](https://user-images.githubusercontent.com/49757918/196770619-cc7c4307-5824-41e2-b770-19f0360b3a21.png)
 ![image](https://user-images.githubusercontent.com/49757918/196770806-ac4efb93-9db3-4707-9f48-300622ec4bf2.png)
