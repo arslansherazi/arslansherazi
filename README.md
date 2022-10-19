@@ -20,7 +20,7 @@ Currently, I work with various full stack development tools and technologies suc
 • Building user-friendly frontends with ReactJS for web apps and React Native 
   for mobile apps.
 
-Machine learning, data science, full stack development, AI, and data scrapping are some of the many fields that interest me, and I plan to keep learning new skills and improving them in these fields.
+Machine learning, data science, full stack development, AI, and data scrapping are some of the many fields that interest me, and I plan to keep learning new skills and improving them in these fields. <br><br>
 
 
 
