@@ -29,7 +29,7 @@ Machine learning, data science, full stack development, AI, and data scrapping a
         <img src="https://user-images.githubusercontent.com/49757918/196780239-3b2fb594-c6ef-432a-838d-e0e38c25dc88.png" width="120" height="90" />&nbsp;&nbsp;&nbsp;&nbsp;
         <img src="https://user-images.githubusercontent.com/49757918/196775744-96bfc9a5-4c53-45c7-aadd-c7f78e0cd8b2.png" width="90" height="90" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/49757918/196772836-401d2088-6dd6-404d-ad84-f47ff2e2aad7.png" width="90" height="75" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://user-images.githubusercontent.com/49757918/196780928-de7713d9-80f3-4930-9507-ec073dd00af2.png" width="90" height="75" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://user-images.githubusercontent.com/49757918/196780928-de7713d9-80f3-4930-9507-ec073dd00af2.png" width="90" height="80" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/49757918/196773040-6b78c72a-fe40-48b2-9914-43bc0e68df00.png" width="80" height="75" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/49757918/196773280-1a05b455-01f4-4690-9936-e491abe95f3f.png" width="80" height="75" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/49757918/196773390-724d5dcc-8be1-4a03-8ac2-cf99139f6f7e.png" width="80" height="75" />&nbsp;&nbsp;&nbsp;&nbsp;
