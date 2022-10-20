@@ -22,7 +22,7 @@ Currently, I work with various full stack development tools and technologies suc
 
 Machine learning, data science, full stack development, AI, and data scrapping are some of the many fields that interest me, and I plan to keep learning new skills and improving them in these fields. <br><br>
 
-<h2>Languages and Tools:</h2><br><br>
+<h2>Languages and Tools:</h2><br>
 
 <div style="display: inline-block;">
   <!-- Python -->
