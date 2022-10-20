@@ -38,7 +38,7 @@ Machine learning, data science, full stack development, AI, and data scrapping a
     <!-- GCP -->
     <img src="https://user-images.githubusercontent.com/49757918/196780928-de7713d9-80f3-4930-9507-ec073dd00af2.png" width="50" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
     <!-- MySQL -->
-  <img src="https://user-images.githubusercontent.com/49757918/196773040-6b78c72a-fe40-48b2-9914-43bc0e68df00.png" width="40" height="35" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/49757918/196773040-6b78c72a-fe40-48b2-9914-43bc0e68df00.png" width="60" height="55" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/49757918/196773280-1a05b455-01f4-4690-9936-e491abe95f3f.png" width="80" height="75" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/49757918/196773390-724d5dcc-8be1-4a03-8ac2-cf99139f6f7e.png" width="80" height="75" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/49757918/196773469-655514c8-7f86-4cea-8277-a7347057a600.png" width="80" height="75" />&nbsp;&nbsp;&nbsp;&nbsp;
