@@ -10,12 +10,12 @@ Currently, I work with various full stack development tools and technologies suc
 
 • Python, ReactJS, React Native, and Golang.
 
-• Cloud-based platforms like AWS and Azure. 
+• Cloud-based platforms like AWS and GCP. 
 
 • Building efficient backend services and APIs using Flask, Django, FastAPI and 
   Gorilla Mux Frameworks. 
 
-• Deployment of APIs on cloud services like AWS and Azure. 
+• Deployment of APIs on cloud services. 
 
 • Building user-friendly frontends with ReactJS for web apps and React Native 
   for mobile apps.
