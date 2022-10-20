@@ -56,7 +56,7 @@ Machine learning, data science, full stack development, AI, and data scrapping a
     <!-- HTML -->
       <img src="https://user-images.githubusercontent.com/49757918/196958507-4e20fc01-10ac-47ee-8161-7cfeb4ddd7b4.png" width="60" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
       <!-- CSS -->
-      <img src="https://user-images.githubusercontent.com/49757918/196958633-31509f8e-7656-420e-b6fc-f5ca479e8e12.png" width="60" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://user-images.githubusercontent.com/49757918/196958633-31509f8e-7656-420e-b6fc-f5ca479e8e12.png" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
         <!-- JS -->
       <img src="https://user-images.githubusercontent.com/49757918/196958742-dc1b1257-4eb7-4f54-8185-d41bbc64c29a.png" width="60" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Pandas -->
