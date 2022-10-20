@@ -36,7 +36,7 @@ Machine learning, data science, full stack development, AI, and data scrapping a
     <!-- AWS -->
   <img src="https://user-images.githubusercontent.com/49757918/196772836-401d2088-6dd6-404d-ad84-f47ff2e2aad7.png" width="60" height="45" />&nbsp;&nbsp;&nbsp;&nbsp;
     <!-- GCP -->
-    <img src="https://user-images.githubusercontent.com/49757918/196780928-de7713d9-80f3-4930-9507-ec073dd00af2.png" width="50" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://user-images.githubusercontent.com/49757918/196780928-de7713d9-80f3-4930-9507-ec073dd00af2.png" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
         <!-- GIT -->
     <img src="https://user-images.githubusercontent.com/49757918/197027845-d2a2e578-bebe-4539-a664-fbf5a56f32ca.png" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
         <!-- Docker -->
