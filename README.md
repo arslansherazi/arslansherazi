@@ -39,6 +39,8 @@ Machine learning, data science, full stack development, AI, and data scrapping a
     <img src="https://user-images.githubusercontent.com/49757918/196780928-de7713d9-80f3-4930-9507-ec073dd00af2.png" width="50" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
         <!-- Docker -->
     <img src="https://user-images.githubusercontent.com/49757918/196958123-89622a9d-8604-4e93-b929-dbc2ab8ee445.png" width="50" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+          <!-- Kubernetes -->
+    <img src="https://user-images.githubusercontent.com/49757918/196958343-4ba5090d-3d39-4261-9100-1019d9f456ea.png" width="50" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
     <!-- MySQL -->
   <img src="https://user-images.githubusercontent.com/49757918/196773040-6b78c72a-fe40-48b2-9914-43bc0e68df00.png" width="60" height="55" />&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Postresql -->
@@ -51,6 +53,12 @@ Machine learning, data science, full stack development, AI, and data scrapping a
     <img src="https://user-images.githubusercontent.com/49757918/196774640-982e379f-e883-4697-ad26-b47c42b42480.png" width="90" height="45" />&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- React -->
       <img src="https://user-images.githubusercontent.com/49757918/196780609-65e5a38b-4ecf-44f0-96b1-5f3f5cf62454.png" width="60" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <!-- HTML -->
+      <img src="https://user-images.githubusercontent.com/49757918/196958507-4e20fc01-10ac-47ee-8161-7cfeb4ddd7b4.png" width="60" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <!-- CSS -->
+      <img src="https://user-images.githubusercontent.com/49757918/196958633-31509f8e-7656-420e-b6fc-f5ca479e8e12.png" width="60" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
+        <!-- JS -->
+      <img src="https://user-images.githubusercontent.com/49757918/196958742-dc1b1257-4eb7-4f54-8185-d41bbc64c29a.png" width="60" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Pandas -->
       <img src="https://user-images.githubusercontent.com/49757918/196776237-ff33ec98-3d75-404e-bcee-bd3072ac7f1e.png" width="90" height="45" />&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- numpy -->
@@ -61,6 +69,8 @@ Machine learning, data science, full stack development, AI, and data scrapping a
 <img src="https://user-images.githubusercontent.com/49757918/196778108-16410450-05ea-4427-8937-5879e10cc48c.png" width="90" height="45" style="margin-top: 20px" />&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- keras -->
                 <img src="https://user-images.githubusercontent.com/49757918/196778214-a9478082-092b-499e-a91a-9c5d74da6d0d.png" width="50" height="45" style="margin-top: 20px" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <!-- Pytorch -->
+                <img src="https://user-images.githubusercontent.com/49757918/196958930-c82d22de-4ecd-4a6e-845d-4507b73d6d91.png" width="50" height="45" style="margin-top: 20px" />&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- matplotlib -->
             <img src="https://user-images.githubusercontent.com/49757918/196777832-58706a36-5e97-4b94-86c7-bfeff3ed4087.png" width="90" height="45" style="margin-top: 20px" />&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Seaborn -->
