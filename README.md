@@ -66,7 +66,7 @@ Machine learning, data science, full stack development, AI, and data scrapping a
   <!-- Pandas -->
       <img src="https://user-images.githubusercontent.com/49757918/196776237-ff33ec98-3d75-404e-bcee-bd3072ac7f1e.png" width="90" height="45" />&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- numpy -->
-        <img src="https://user-images.githubusercontent.com/49757918/196777277-bfc21317-9085-47e2-89a3-cfbbe32d88e6.png" width="90" height="60" style="margin-top: 20px" /><br><br>
+        <img src="https://user-images.githubusercontent.com/49757918/196777277-bfc21317-9085-47e2-89a3-cfbbe32d88e6.png" width="90" height="60" style="margin-top: 20px" />
   <!-- Scikit Learn -->
           <img src="https://user-images.githubusercontent.com/49757918/196777458-0c3d71b9-cde8-4714-a199-89d66e91a07b.png" width="90" height="45" style="margin-top: 20px" />&nbsp;&nbsp;&nbsp;&nbsp;
 <!-- Tensor Flow -->
@@ -82,7 +82,7 @@ Machine learning, data science, full stack development, AI, and data scrapping a
   <!-- vs code -->
                 <img src="https://user-images.githubusercontent.com/49757918/196778846-8c4e2df3-aec2-4694-b581-cc5b3989e27f.png" width="50" height="45" style="margin-top: 20px" />&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Pycharm -->
-                  <img src="https://user-images.githubusercontent.com/49757918/196779240-544093f5-8f42-47c7-88f4-1d6e3b99899d.png" width="50" height="50" style="margin-top: 20px" /><br><br>
+                  <img src="https://user-images.githubusercontent.com/49757918/196779240-544093f5-8f42-47c7-88f4-1d6e3b99899d.png" width="50" height="50" style="margin-top: 20px" />
   <!-- Jupyter -->
                     <img src="https://user-images.githubusercontent.com/49757918/196779564-dceefac1-5f06-4db9-98ce-3ac3c7fb1d31.png" width="50" height="60" style="margin-top: 20px" />&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
