@@ -66,7 +66,7 @@ Machine learning, data science, full stack development, AI, and data scrapping a
   <!-- Pandas -->
       <img src="https://user-images.githubusercontent.com/49757918/196776237-ff33ec98-3d75-404e-bcee-bd3072ac7f1e.png" width="90" height="45" />&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- numpy -->
-        <img src="https://user-images.githubusercontent.com/49757918/196777277-bfc21317-9085-47e2-89a3-cfbbe32d88e6.png" width="90" height="45" style="margin-top: 20px" />&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://user-images.githubusercontent.com/49757918/196777277-bfc21317-9085-47e2-89a3-cfbbe32d88e6.png" width="90" height="45" style="margin-top: 20px" /><br><br>
   <!-- Scikit Learn -->
           <img src="https://user-images.githubusercontent.com/49757918/196777458-0c3d71b9-cde8-4714-a199-89d66e91a07b.png" width="90" height="45" style="margin-top: 20px" />&nbsp;&nbsp;&nbsp;&nbsp;
 <!-- Tensor Flow -->
