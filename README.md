@@ -24,9 +24,9 @@ Machine learning, data science, full stack development, AI, and data scrapping a
 
 <h2>Languages and Tools:</h2><br>
 
-<div style="display: flex">
+<div style="display: flex;">
   <!-- Python -->
-      <img src="https://user-images.githubusercontent.com/49757918/196774126-ca41a0c7-99eb-481a-8437-a982f0e3d54c.png" width="50" height="45" />
+      <img src="https://user-images.githubusercontent.com/49757918/196774126-ca41a0c7-99eb-481a-8437-a982f0e3d54c.png" width="50" height="45" style="margin: 400px" />
   <!-- Django -->
     <img src="https://user-images.githubusercontent.com/49757918/196775067-e3402a77-8b23-43b1-8c46-0f5adb436d40.png" width="50" height="45" />
   <!-- Flask -->
