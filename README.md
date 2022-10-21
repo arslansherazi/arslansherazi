@@ -44,7 +44,7 @@ Machine learning, data science, full stack development, AI, and data scrapping a
   <!-- Mongodb -->
   <img src="https://user-images.githubusercontent.com/49757918/196773390-724d5dcc-8be1-4a03-8ac2-cf99139f6f7e.png" width="50" height="45" />&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Redis -->
-  <img src="https://user-images.githubusercontent.com/49757918/196773469-655514c8-7f86-4cea-8277-a7347057a600.png" width="50" height="45" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/49757918/196773469-655514c8-7f86-4cea-8277-a7347057a600.png" width="50" height="45" />&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
     <!-- AWS -->
   <img src="https://user-images.githubusercontent.com/49757918/196772836-401d2088-6dd6-404d-ad84-f47ff2e2aad7.png" width="60" height="45" />&nbsp;&nbsp;&nbsp;&nbsp;
     <!-- GCP -->
