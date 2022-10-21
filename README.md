@@ -33,10 +33,8 @@ Machine learning, data science, full stack development, AI, and data scrapping a
       <img src="https://user-images.githubusercontent.com/49757918/196775500-0394d288-ddf3-41d2-89df-215f8d099c02.png" width="50" height="45" />
   <!-- Fast API -->
         <img src="https://user-images.githubusercontent.com/49757918/196780239-3b2fb594-c6ef-432a-838d-e0e38c25dc88.png" width="80" height="50" /
-  <!-- Scrapy -->
-        <img src="https://user-images.githubusercontent.com/49757918/196775744-96bfc9a5-4c53-45c7-aadd-c7f78e0cd8b2.png" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
     <!-- Go Lang -->
-    <img src="https://user-images.githubusercontent.com/49757918/196774640-982e379f-e883-4697-ad26-b47c42b42480.png" width="90" height="45" />&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+    <img src="https://user-images.githubusercontent.com/49757918/196774640-982e379f-e883-4697-ad26-b47c42b42480.png" width="90" height="45" /><br><br>
       <!-- MySQL -->
   <img src="https://user-images.githubusercontent.com/49757918/196773040-6b78c72a-fe40-48b2-9914-43bc0e68df00.png" width="60" height="55" />
   <!-- Postresql -->
@@ -44,7 +42,7 @@ Machine learning, data science, full stack development, AI, and data scrapping a
   <!-- Mongodb -->
   <img src="https://user-images.githubusercontent.com/49757918/196773390-724d5dcc-8be1-4a03-8ac2-cf99139f6f7e.png" width="50" height="45" />&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Redis -->
-  <img src="https://user-images.githubusercontent.com/49757918/196773469-655514c8-7f86-4cea-8277-a7347057a600.png" width="50" height="45" />&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+  <img src="https://user-images.githubusercontent.com/49757918/196773469-655514c8-7f86-4cea-8277-a7347057a600.png" width="50" height="45" /><br><br>
     <!-- AWS -->
   <img src="https://user-images.githubusercontent.com/49757918/196772836-401d2088-6dd6-404d-ad84-f47ff2e2aad7.png" width="60" height="45" />&nbsp;&nbsp;&nbsp;&nbsp;
     <!-- GCP -->
@@ -53,8 +51,8 @@ Machine learning, data science, full stack development, AI, and data scrapping a
     <img src="https://user-images.githubusercontent.com/49757918/197027845-d2a2e578-bebe-4539-a664-fbf5a56f32ca.png" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
         <!-- Docker -->
     <img src="https://user-images.githubusercontent.com/49757918/196958123-89622a9d-8604-4e93-b929-dbc2ab8ee445.png" width="50" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-          <!-- Kubernetes --><br><br>
-    <img src="https://user-images.githubusercontent.com/49757918/196958343-4ba5090d-3d39-4261-9100-1019d9f456ea.png" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
+          <!-- Kubernetes -->
+    <img src="https://user-images.githubusercontent.com/49757918/196958343-4ba5090d-3d39-4261-9100-1019d9f456ea.png" width="50" height="50" /><br><br>
   <!-- React -->
       <img src="https://user-images.githubusercontent.com/49757918/196780609-65e5a38b-4ecf-44f0-96b1-5f3f5cf62454.png" width="60" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
     <!-- HTML -->
@@ -62,7 +60,9 @@ Machine learning, data science, full stack development, AI, and data scrapping a
       <!-- CSS -->
       <img src="https://user-images.githubusercontent.com/49757918/196958633-31509f8e-7656-420e-b6fc-f5ca479e8e12.png" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
         <!-- JS -->
-      <img src="https://user-images.githubusercontent.com/49757918/196958742-dc1b1257-4eb7-4f54-8185-d41bbc64c29a.png" width="60" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+      <img src="https://user-images.githubusercontent.com/49757918/196958742-dc1b1257-4eb7-4f54-8185-d41bbc64c29a.png" width="60" height="50" /><br><br>
+    <!-- Scrapy -->
+        <img src="https://user-images.githubusercontent.com/49757918/196775744-96bfc9a5-4c53-45c7-aadd-c7f78e0cd8b2.png" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Pandas -->
       <img src="https://user-images.githubusercontent.com/49757918/196776237-ff33ec98-3d75-404e-bcee-bd3072ac7f1e.png" width="90" height="45" />&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- numpy -->
