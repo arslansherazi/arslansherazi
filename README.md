@@ -82,7 +82,7 @@ Machine learning, data science, full stack development, AI, and data scrapping a
   <!-- vs code -->
                 <img src="https://user-images.githubusercontent.com/49757918/196778846-8c4e2df3-aec2-4694-b581-cc5b3989e27f.png" width="50" height="45" style="margin-top: 20px" />&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Pycharm -->
-                  <img src="https://user-images.githubusercontent.com/49757918/196779240-544093f5-8f42-47c7-88f4-1d6e3b99899d.png" width="50" height="50" style="margin-top: 20px" />
+                  <img src="https://user-images.githubusercontent.com/49757918/196779240-544093f5-8f42-47c7-88f4-1d6e3b99899d.png" width="50" height="50" style="margin-top: 20px" />&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Jupyter -->
                     <img src="https://user-images.githubusercontent.com/49757918/196779564-dceefac1-5f06-4db9-98ce-3ac3c7fb1d31.png" width="50" height="60" style="margin-top: 20px" />&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
