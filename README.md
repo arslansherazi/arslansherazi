@@ -76,13 +76,13 @@ Machine learning, data science, full stack development, AI, and data scrapping a
     <!-- Pytorch -->
                 <img src="https://user-images.githubusercontent.com/49757918/196958930-c82d22de-4ecd-4a6e-845d-4507b73d6d91.png" width="50" height="45" style="margin-top: 20px" />&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- matplotlib -->
-            <img src="https://user-images.githubusercontent.com/49757918/196777832-58706a36-5e97-4b94-86c7-bfeff3ed4087.png" width="140" height="60" style="margin-top: 20px" />&nbsp;&nbsp;&nbsp;&nbsp;
+            <img src="https://user-images.githubusercontent.com/49757918/196777832-58706a36-5e97-4b94-86c7-bfeff3ed4087.png" width="150" height="50" style="margin-top: 20px" />&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Seaborn -->
               <img src="https://user-images.githubusercontent.com/49757918/196777990-1ca0ca17-d788-4762-83ca-1ca5bdab9585.png" width="150" height="45" style="margin-top: 20px" />&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- vs code -->
                 <img src="https://user-images.githubusercontent.com/49757918/196778846-8c4e2df3-aec2-4694-b581-cc5b3989e27f.png" width="50" height="45" style="margin-top: 20px" />&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Pycharm -->
-                  <img src="https://user-images.githubusercontent.com/49757918/196779240-544093f5-8f42-47c7-88f4-1d6e3b99899d.png" width="50" height="50" style="margin-top: 20px" />&nbsp;&nbsp;&nbsp;&nbsp;
+                  <img src="https://user-images.githubusercontent.com/49757918/196779240-544093f5-8f42-47c7-88f4-1d6e3b99899d.png" width="50" height="50" style="margin-top: 20px" /><br><br>
   <!-- Jupyter -->
                     <img src="https://user-images.githubusercontent.com/49757918/196779564-dceefac1-5f06-4db9-98ce-3ac3c7fb1d31.png" width="50" height="60" style="margin-top: 20px" />&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
