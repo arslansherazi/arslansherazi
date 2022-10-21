@@ -46,9 +46,9 @@ Machine learning, data science, full stack development, AI, and data scrapping a
           <!-- Kubernetes -->
     <img src="https://user-images.githubusercontent.com/49757918/196958343-4ba5090d-3d39-4261-9100-1019d9f456ea.png" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
     <!-- MySQL -->
-  <img src="https://user-images.githubusercontent.com/49757918/196773040-6b78c72a-fe40-48b2-9914-43bc0e68df00.png" width="60" height="55" /><br><br>
+  <img src="https://user-images.githubusercontent.com/49757918/196773040-6b78c72a-fe40-48b2-9914-43bc0e68df00.png" width="60" height="55" />&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Postresql -->
-  <img src="https://user-images.githubusercontent.com/49757918/196773280-1a05b455-01f4-4690-9936-e491abe95f3f.png" width="50" height="45" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/49757918/196773280-1a05b455-01f4-4690-9936-e491abe95f3f.png" width="50" height="45" /><br><br>
   <!-- Mongodb -->
   <img src="https://user-images.githubusercontent.com/49757918/196773390-724d5dcc-8be1-4a03-8ac2-cf99139f6f7e.png" width="50" height="45" />&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Redis -->
