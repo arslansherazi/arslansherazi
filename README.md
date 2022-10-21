@@ -24,7 +24,7 @@ Machine learning, data science, full stack development, AI, and data scrapping a
 
 <h2>Languages and Tools:</h2><br>
 
-<div style="display: flex; margin-top: 200px">
+<div style="display: flex">
   <!-- Python -->
   <div style="margin: 5px;">
       <img src="https://user-images.githubusercontent.com/49757918/196774126-ca41a0c7-99eb-481a-8437-a982f0e3d54c.png" width="50" height="45" />
