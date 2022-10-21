@@ -26,7 +26,9 @@ Machine learning, data science, full stack development, AI, and data scrapping a
 
 <div style="display: inline-block;">
   <!-- Python -->
-  <img src="https://user-images.githubusercontent.com/49757918/196774126-ca41a0c7-99eb-481a-8437-a982f0e3d54c.png" width="50" height="45" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <div style="margin: 30px;">
+      <img src="https://user-images.githubusercontent.com/49757918/196774126-ca41a0c7-99eb-481a-8437-a982f0e3d54c.png" width="50" height="45" />&nbsp;&nbsp;&nbsp;&nbsp;
+  </div>
   <!-- Django -->
     <img src="https://user-images.githubusercontent.com/49757918/196775067-e3402a77-8b23-43b1-8c46-0f5adb436d40.png" width="50" height="45" />&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Flask -->
