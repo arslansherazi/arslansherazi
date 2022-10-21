@@ -76,7 +76,7 @@ Machine learning, data science, full stack development, AI, and data scrapping a
     <!-- Pytorch -->
                 <img src="https://user-images.githubusercontent.com/49757918/196958930-c82d22de-4ecd-4a6e-845d-4507b73d6d91.png" width="50" height="45" style="margin-top: 20px" />&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- matplotlib -->
-            <img src="https://user-images.githubusercontent.com/49757918/196777832-58706a36-5e97-4b94-86c7-bfeff3ed4087.png" width="110" height="60" style="margin-top: 20px" />&nbsp;&nbsp;&nbsp;&nbsp;
+            <img src="https://user-images.githubusercontent.com/49757918/196777832-58706a36-5e97-4b94-86c7-bfeff3ed4087.png" width="140" height="60" style="margin-top: 20px" />&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Seaborn -->
               <img src="https://user-images.githubusercontent.com/49757918/196777990-1ca0ca17-d788-4762-83ca-1ca5bdab9585.png" width="150" height="45" style="margin-top: 20px" />&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- vs code -->
