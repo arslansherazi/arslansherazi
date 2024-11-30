@@ -16,7 +16,7 @@ I am a passionate software engineer and AI developer from Pakistan with over 6 y
 
 - Strong analytical skills to dissect complex system requirements and deliver efficient solutions.
 - A proactive learner, always staying updated with the latest advancements in the tech industry.
-- Versatile experience across various domains, including machine learning, data science, full-stack development, and data scraping.
+- Versatile experience across various domains, including backend development, data scraping, data science, machine learning and Gen AI.
 
 Currently, my primary focus lies in backend development using Python and Golang, alongside exploring generative AI and data engineering. I enjoy bridging the gap between technology and innovation, continuously improving my skills to build impactful and world-class projects. <br><br>
 
