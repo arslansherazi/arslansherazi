@@ -2,7 +2,7 @@
 
 <b> Experienced Software Engineer | Backend Specialist | AI Enthusiast </b>
 
-I am a passionate software engineer and full-stack developer from Pakistan with over 6 years of hands-on experience in modern software development. My enthusiasm for programming drives me to constantly explore cutting-edge tools and technologies, enabling me to create innovative and efficient solutions.
+I am a passionate software engineer and AI developer from Pakistan with over 6 years of hands-on experience in modern software development. My enthusiasm for programming drives me to constantly explore cutting-edge tools and technologies, enabling me to create innovative and efficient solutions.
 
 ## Core Skills & Expertise:
 
