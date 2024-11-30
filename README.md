@@ -6,17 +6,17 @@ I am a passionate software engineer and full-stack developer from Pakistan with 
 
 <b>Core Skills & Expertise:</b>
 
-<b>Backend Development:</b> Proficient in Python (Django, Flask, FastAPI) and Golang, with expertise in building robust APIs and efficient backend services.
-<b>AI & Generative AI:</b> Skilled in working with AI stacks, particularly generative AI frameworks using LangChain.
-<b>Data Engineering:</b> Experienced in data processing, analysis, and visualization using libraries such as Pandas, NumPy, and Matplotlib.
-<b>Cloud Computing:</b> Adept at deploying scalable applications on cloud platforms like AWS and GCP.
-<b/>Frontend Development:</b> Intermediate-level knowledge of HTML, CSS, JavaScript, and ReactJS, with experience in building user-friendly web and mobile interfaces.
+<b>Backend Development:</b> Proficient in Python (Django, Flask, FastAPI) and Golang, with expertise in building robust APIs and efficient backend services.<br>
+<b>AI & Generative AI:</b> Skilled in working with AI stacks, particularly generative AI frameworks using LangChain.<br>
+<b>Data Engineering:</b> Experienced in data processing, analysis, and visualization using libraries such as Pandas, NumPy, and Matplotlib.<br>
+<b>Cloud Computing:</b> Adept at deploying scalable applications on cloud platforms like AWS and GCP.<br>
+<b>Frontend Development:</b> Intermediate-level knowledge of HTML, CSS, JavaScript, and ReactJS, with experience in building user-friendly web and mobile interfaces.<br>
 
 <b>What Sets Me Apart:<b>
 
-1. Strong analytical skills to dissect complex system requirements and deliver efficient solutions.
-2. A proactive learner, always staying updated with the latest advancements in the tech industry.
-3. Versatile experience across various domains, including machine learning, data science, full-stack development, and data scraping.
+- Strong analytical skills to dissect complex system requirements and deliver efficient solutions.
+- A proactive learner, always staying updated with the latest advancements in the tech industry.
+- Versatile experience across various domains, including machine learning, data science, full-stack development, and data scraping.
 
 Currently, my primary focus lies in backend development using Python and Golang, alongside exploring generative AI and data engineering. I enjoy bridging the gap between technology and innovation, continuously improving my skills to build impactful and world-class projects. <br><br>
 
@@ -58,7 +58,7 @@ Currently, my primary focus lies in backend development using Python and Golang,
       <!-- CSS -->
       <img src="https://user-images.githubusercontent.com/49757918/196958633-31509f8e-7656-420e-b6fc-f5ca479e8e12.png" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
         <!-- JS -->
-      <img src="https://user-images.githubusercontent.com/49757918/196958742-dc1b1257-4eb7-4f54-8185-d41bbc64c29a.png" width="60" height="50" />
+      <img src="https://user-images.githubusercontent.com/49757918/196958742-dc1b1257-4eb7-4f54-8185-d41bbc64c29a.png" width="60" height="50" /> <br><br>
     <!-- Scrapy -->
         <img src="https://user-images.githubusercontent.com/49757918/196775744-96bfc9a5-4c53-45c7-aadd-c7f78e0cd8b2.png" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Pandas -->
@@ -76,10 +76,9 @@ Currently, my primary focus lies in backend development using Python and Golang,
   <!-- matplotlib -->
             <img src="https://user-images.githubusercontent.com/49757918/196777832-58706a36-5e97-4b94-86c7-bfeff3ed4087.png" width="150" height="50" style="margin-top: 20px" />&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Seaborn -->
-              <img src="https://user-images.githubusercontent.com/49757918/196777990-1ca0ca17-d788-4762-83ca-1ca5bdab9585.png" width="150" height="45" style="margin-top: 20px" />&nbsp;&nbsp;&nbsp;&nbsp;
-
-  
-  <br><br>
+              <img src="https://user-images.githubusercontent.com/49757918/196777990-1ca0ca17-d788-4762-83ca-1ca5bdab9585.png" width="150" height="45" style="margin-top: 20px" />&nbsp;&nbsp;&nbsp;&nbsp; <br><br>
+  <!-- Langchain -->
+              <img src="https://github.com/user-attachments/assets/ae078b2a-4c11-4a0e-a1db-a7835ea90b2e" width="200" height="45" style="margin-top: 20px" /> <br><br>
   <!-- vs code -->
                 <img src="https://user-images.githubusercontent.com/49757918/196778846-8c4e2df3-aec2-4694-b581-cc5b3989e27f.png" width="50" height="45" style="margin-top: 20px" />&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Pycharm -->
