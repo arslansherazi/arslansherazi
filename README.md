@@ -1,26 +1,24 @@
 ### Hi I am Arslan Haider Sherazi 👋
 
-An experienced software engineer and full-stack developer from Pakistan. I've got a great passion for development and programming using modern tools and technologies.
+Experienced Software Engineer | Backend Specialist | AI Enthusiast
 
-My passion for innovation has enabled me to learn a wide range of programming languages and techniques during my four years of development experience. I'm always searching for the latest updates in the programming industry to get familiar with the state-of-the-art tools being used for full-stack development.
+I am a passionate software engineer and full-stack developer from Pakistan with over 6 years of hands-on experience in modern software development. My enthusiasm for programming drives me to constantly explore cutting-edge tools and technologies, enabling me to create innovative and efficient solutions.
 
-My strong analytical skills allow me to deal thoroughly with even the most sophisticated system requirements and implement efficient solutions to fulfill these requirements. I've got experience working in different areas of development such as data science, designing attractive and user-friendly interfaces, creating APIs from scratch, and deployment of software to cloud-based platforms such as AWS servers. My biggest strength is that I'm always open to learning more about the latest development technologies and continually improving my skills to build world-class projects.
+<b>Core Skills & Expertise:</b>
 
-Currently, I work with various full stack development tools and technologies such as:
+<b>Backend Development:</b> Proficient in Python (Django, Flask, FastAPI) and Golang, with expertise in building robust APIs and efficient backend services.
+<b>AI & Generative AI:</b> Skilled in working with AI stacks, particularly generative AI frameworks using LangChain.
+<b>Data Engineering:</b> Experienced in data processing, analysis, and visualization using libraries such as Pandas, NumPy, and Matplotlib.
+<b>Cloud Computing:</b> Adept at deploying scalable applications on cloud platforms like AWS and GCP.
+<b/>Frontend Development:</b> Intermediate-level knowledge of HTML, CSS, JavaScript, and ReactJS, with experience in building user-friendly web and mobile interfaces.
 
-• Python, ReactJS, React Native, and Golang.
+<b>What Sets Me Apart:<b>
 
-• Cloud-based platforms like AWS and GCP. 
+1. Strong analytical skills to dissect complex system requirements and deliver efficient solutions.
+2. A proactive learner, always staying updated with the latest advancements in the tech industry.
+3. Versatile experience across various domains, including machine learning, data science, full-stack development, and data scraping.
 
-• Building efficient backend services and APIs using Flask, Django, FastAPI and 
-  Gorilla Mux Frameworks. 
-
-• Deployment of APIs on cloud services. 
-
-• Building user-friendly frontends with ReactJS for web apps and React Native 
-  for mobile apps.
-
-Machine learning, data science, full stack development, AI, and data scrapping are some of the many fields that interest me, and I plan to keep learning new skills and improving them in these fields. <br><br>
+Currently, my primary focus lies in backend development using Python and Golang, alongside exploring generative AI and data engineering. I enjoy bridging the gap between technology and innovation, continuously improving my skills to build impactful and world-class projects. <br><br>
 
 <h2>Languages and Tools:</h2><br>
 
@@ -61,9 +59,6 @@ Machine learning, data science, full stack development, AI, and data scrapping a
       <img src="https://user-images.githubusercontent.com/49757918/196958633-31509f8e-7656-420e-b6fc-f5ca479e8e12.png" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
         <!-- JS -->
       <img src="https://user-images.githubusercontent.com/49757918/196958742-dc1b1257-4eb7-4f54-8185-d41bbc64c29a.png" width="60" height="50" />
-  <!-- Flutter -->
-      <img src="https://user-images.githubusercontent.com/49757918/201541287-d5eda965-4e21-40a9-863c-dc2546f85795.png" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <br><br>
     <!-- Scrapy -->
         <img src="https://user-images.githubusercontent.com/49757918/196775744-96bfc9a5-4c53-45c7-aadd-c7f78e0cd8b2.png" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Pandas -->
@@ -81,7 +76,10 @@ Machine learning, data science, full stack development, AI, and data scrapping a
   <!-- matplotlib -->
             <img src="https://user-images.githubusercontent.com/49757918/196777832-58706a36-5e97-4b94-86c7-bfeff3ed4087.png" width="150" height="50" style="margin-top: 20px" />&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Seaborn -->
-              <img src="https://user-images.githubusercontent.com/49757918/196777990-1ca0ca17-d788-4762-83ca-1ca5bdab9585.png" width="150" height="45" style="margin-top: 20px" />&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+              <img src="https://user-images.githubusercontent.com/49757918/196777990-1ca0ca17-d788-4762-83ca-1ca5bdab9585.png" width="150" height="45" style="margin-top: 20px" />&nbsp;&nbsp;&nbsp;&nbsp;
+
+  
+  <br><br>
   <!-- vs code -->
                 <img src="https://user-images.githubusercontent.com/49757918/196778846-8c4e2df3-aec2-4694-b581-cc5b3989e27f.png" width="50" height="45" style="margin-top: 20px" />&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Pycharm -->
