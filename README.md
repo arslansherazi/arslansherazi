@@ -1,10 +1,10 @@
-### Hi I am Arslan Haider Sherazi 👋
+## Hi I am Arslan Haider Sherazi 👋
 
-Experienced Software Engineer | Backend Specialist | AI Enthusiast
+<b> Experienced Software Engineer | Backend Specialist | AI Enthusiast </b>
 
 I am a passionate software engineer and full-stack developer from Pakistan with over 6 years of hands-on experience in modern software development. My enthusiasm for programming drives me to constantly explore cutting-edge tools and technologies, enabling me to create innovative and efficient solutions.
 
-<b>Core Skills & Expertise:</b>
+## Core Skills & Expertise:
 
 <b>Backend Development:</b> Proficient in Python (Django, Flask, FastAPI) and Golang, with expertise in building robust APIs and efficient backend services.<br>
 <b>AI & Generative AI:</b> Skilled in working with AI stacks, particularly generative AI frameworks using LangChain.<br>
@@ -12,7 +12,7 @@ I am a passionate software engineer and full-stack developer from Pakistan with 
 <b>Cloud Computing:</b> Adept at deploying scalable applications on cloud platforms like AWS and GCP.<br>
 <b>Frontend Development:</b> Intermediate-level knowledge of HTML, CSS, JavaScript, and ReactJS, with experience in building user-friendly web and mobile interfaces.<br>
 
-<b>What Sets Me Apart:<b>
+## What Sets Me Apart:
 
 - Strong analytical skills to dissect complex system requirements and deliver efficient solutions.
 - A proactive learner, always staying updated with the latest advancements in the tech industry.
@@ -20,7 +20,7 @@ I am a passionate software engineer and full-stack developer from Pakistan with 
 
 Currently, my primary focus lies in backend development using Python and Golang, alongside exploring generative AI and data engineering. I enjoy bridging the gap between technology and innovation, continuously improving my skills to build impactful and world-class projects. <br><br>
 
-<h2>Languages and Tools:</h2><br>
+## Languages and Tools: <br>
 
 <div align="center">
   <!-- Python -->
