@@ -24,13 +24,13 @@ Currently, my primary focus lies in backend development using Python and Golang,
 
 <div align="center">
   <!-- Python -->
-      <img src="https://user-images.githubusercontent.com/49757918/196774126-ca41a0c7-99eb-481a-8437-a982f0e3d54c.png" width="50" height="45" style="margin: 400px" />
+      <img src="https://user-images.githubusercontent.com/49757918/196774126-ca41a0c7-99eb-481a-8437-a982f0e3d54c.png" width="50" height="45" style="margin: 400px" /> &nbsp;&nbsp;
   <!-- Django -->
-    <img src="https://user-images.githubusercontent.com/49757918/196775067-e3402a77-8b23-43b1-8c46-0f5adb436d40.png" width="50" height="45" />
+    <img src="https://user-images.githubusercontent.com/49757918/196775067-e3402a77-8b23-43b1-8c46-0f5adb436d40.png" width="50" height="45" />&nbsp;&nbsp;&nbsp;
   <!-- Flask -->
-      <img src="https://user-images.githubusercontent.com/49757918/196775500-0394d288-ddf3-41d2-89df-215f8d099c02.png" width="50" height="45" />
+      <img src="https://user-images.githubusercontent.com/49757918/196775500-0394d288-ddf3-41d2-89df-215f8d099c02.png" width="50" height="45" />&nbsp;&nbsp;&nbsp;
   <!-- Fast API -->
-        <img src="https://user-images.githubusercontent.com/49757918/196780239-3b2fb594-c6ef-432a-838d-e0e38c25dc88.png" width="80" height="50" /
+        <img src="https://user-images.githubusercontent.com/49757918/196780239-3b2fb594-c6ef-432a-838d-e0e38c25dc88.png" width="80" height="50" />&nbsp;
     <!-- Go Lang -->
     <img src="https://user-images.githubusercontent.com/49757918/196774640-982e379f-e883-4697-ad26-b47c42b42480.png" width="90" height="45" /><br><br>
       <!-- MySQL -->
@@ -56,7 +56,7 @@ Currently, my primary focus lies in backend development using Python and Golang,
           <!-- Kubernetes -->
     <img src="https://user-images.githubusercontent.com/49757918/196958343-4ba5090d-3d39-4261-9100-1019d9f456ea.png" width="50" height="50" />&nbsp;
     <!-- Jenkins -->
-    <img src="https://github.com/user-attachments/assets/c5bba27e-ea83-4081-b45e-b0134dddea79" width="80" height="50" /><br><br>
+    <img src="https://github.com/user-attachments/assets/c5bba27e-ea83-4081-b45e-b0134dddea79" width="90" height="60" /><br><br>
   <!-- React -->
       <img src="https://user-images.githubusercontent.com/49757918/196780609-65e5a38b-4ecf-44f0-96b1-5f3f5cf62454.png" width="60" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
     <!-- HTML -->
