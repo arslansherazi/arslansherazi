@@ -34,13 +34,15 @@ Currently, my primary focus lies in backend development using Python and Golang,
     <!-- Go Lang -->
     <img src="https://user-images.githubusercontent.com/49757918/196774640-982e379f-e883-4697-ad26-b47c42b42480.png" width="90" height="45" /><br><br>
       <!-- MySQL -->
-  <img src="https://user-images.githubusercontent.com/49757918/196773040-6b78c72a-fe40-48b2-9914-43bc0e68df00.png" width="60" height="55" />
+  <img src="https://user-images.githubusercontent.com/49757918/196773040-6b78c72a-fe40-48b2-9914-43bc0e68df00.png" width="60" height="55" />&nbsp;&nbsp;
   <!-- Postresql -->
   <img src="https://user-images.githubusercontent.com/49757918/196773280-1a05b455-01f4-4690-9936-e491abe95f3f.png" width="50" height="45" />&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Mongodb -->
   <img src="https://user-images.githubusercontent.com/49757918/196773390-724d5dcc-8be1-4a03-8ac2-cf99139f6f7e.png" width="50" height="45" />&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Redis -->
-  <img src="https://user-images.githubusercontent.com/49757918/196773469-655514c8-7f86-4cea-8277-a7347057a600.png" width="50" height="45" /><br><br>
+  <img src="https://user-images.githubusercontent.com/49757918/196773469-655514c8-7f86-4cea-8277-a7347057a600.png" width="50" height="45" />&nbsp;
+  <!-- Redis -->
+  <img src="https://github.com/user-attachments/assets/170e68ba-5ce1-49ea-8234-c787c7a39f04" width="70" height="50" /><br><br>
     <!-- AWS -->
   <img src="https://user-images.githubusercontent.com/49757918/196772836-401d2088-6dd6-404d-ad84-f47ff2e2aad7.png" width="60" height="45" />&nbsp;&nbsp;&nbsp;&nbsp;
     <!-- GCP -->
