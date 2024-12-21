@@ -42,7 +42,9 @@ Currently, my primary focus lies in backend development using Python and Golang,
   <!-- Redis -->
   <img src="https://user-images.githubusercontent.com/49757918/196773469-655514c8-7f86-4cea-8277-a7347057a600.png" width="50" height="45" />&nbsp;
   <!-- Redis -->
-  <img src="https://github.com/user-attachments/assets/170e68ba-5ce1-49ea-8234-c787c7a39f04" width="70" height="50" /><br><br>
+  <img src="https://github.com/user-attachments/assets/170e68ba-5ce1-49ea-8234-c787c7a39f04" width="70" height="50" />&nbsp;
+    <!-- Redis -->
+  <img src="https://github.com/user-attachments/assets/e7f28fe4-3334-427e-83da-a928ba85e30b" width="70" height="50" /><br><br>
     <!-- AWS -->
   <img src="https://user-images.githubusercontent.com/49757918/196772836-401d2088-6dd6-404d-ad84-f47ff2e2aad7.png" width="60" height="45" />&nbsp;&nbsp;&nbsp;&nbsp;
     <!-- GCP -->
