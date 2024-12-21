@@ -54,7 +54,9 @@ Currently, my primary focus lies in backend development using Python and Golang,
         <!-- Docker -->
     <img src="https://user-images.githubusercontent.com/49757918/196958123-89622a9d-8604-4e93-b929-dbc2ab8ee445.png" width="50" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
           <!-- Kubernetes -->
-    <img src="https://user-images.githubusercontent.com/49757918/196958343-4ba5090d-3d39-4261-9100-1019d9f456ea.png" width="50" height="50" /><br><br>
+    <img src="https://user-images.githubusercontent.com/49757918/196958343-4ba5090d-3d39-4261-9100-1019d9f456ea.png" width="50" height="50" />&nbsp;
+    <!-- Jenkins -->
+    <img src="https://github.com/user-attachments/assets/c5bba27e-ea83-4081-b45e-b0134dddea79" width="80" height="50" /><br><br>
   <!-- React -->
       <img src="https://user-images.githubusercontent.com/49757918/196780609-65e5a38b-4ecf-44f0-96b1-5f3f5cf62454.png" width="60" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
     <!-- HTML -->
