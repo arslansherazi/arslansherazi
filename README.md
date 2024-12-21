@@ -26,7 +26,7 @@ Currently, my primary focus lies in backend development using Python and Golang,
   <!-- Python -->
       <img src="https://user-images.githubusercontent.com/49757918/196774126-ca41a0c7-99eb-481a-8437-a982f0e3d54c.png" width="50" height="45" style="margin: 400px" /> &nbsp;
   <!-- Django -->
-    <img src="https://user-images.githubusercontent.com/49757918/196775067-e3402a77-8b23-43b1-8c46-0f5adb436d40.png" width="50" height="45" />&nbsp;
+    <img src="https://user-images.githubusercontent.com/49757918/196775067-e3402a77-8b23-43b1-8c46-0f5adb436d40.png" width="60" height="45" />&nbsp;
   <!-- Flask -->
       <img src="https://github.com/user-attachments/assets/60d8ce93-ce5f-4b6a-a8ec-547cf12381d9" width="70" height="45" />&nbsp;
   <!-- Fast API -->
