@@ -24,13 +24,13 @@ Currently, my primary focus lies in backend development using Python and Golang,
 
 <div align="center">
   <!-- Python -->
-      <img src="https://user-images.githubusercontent.com/49757918/196774126-ca41a0c7-99eb-481a-8437-a982f0e3d54c.png" width="50" height="45" style="margin: 400px" /> &nbsp;&nbsp;
+      <img src="https://user-images.githubusercontent.com/49757918/196774126-ca41a0c7-99eb-481a-8437-a982f0e3d54c.png" width="50" height="45" style="margin: 400px" /> &nbsp;
   <!-- Django -->
-    <img src="https://user-images.githubusercontent.com/49757918/196775067-e3402a77-8b23-43b1-8c46-0f5adb436d40.png" width="50" height="45" />&nbsp;&nbsp;&nbsp;
+    <img src="https://user-images.githubusercontent.com/49757918/196775067-e3402a77-8b23-43b1-8c46-0f5adb436d40.png" width="50" height="45" />&nbsp;
   <!-- Flask -->
-      <img src="https://user-images.githubusercontent.com/49757918/196775500-0394d288-ddf3-41d2-89df-215f8d099c02.png" width="50" height="45" />&nbsp;&nbsp;&nbsp;
+      <img src="https://github.com/user-attachments/assets/60d8ce93-ce5f-4b6a-a8ec-547cf12381d9" width="70" height="45" />&nbsp;
   <!-- Fast API -->
-        <img src="https://user-images.githubusercontent.com/49757918/196780239-3b2fb594-c6ef-432a-838d-e0e38c25dc88.png" width="80" height="50" />&nbsp;
+        <img src="https://user-images.githubusercontent.com/49757918/196780239-3b2fb594-c6ef-432a-838d-e0e38c25dc88.png" width="80" height="50" />
     <!-- Go Lang -->
     <img src="https://user-images.githubusercontent.com/49757918/196774640-982e379f-e883-4697-ad26-b47c42b42480.png" width="90" height="45" /><br><br>
       <!-- MySQL -->
