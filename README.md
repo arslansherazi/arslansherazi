@@ -20,7 +20,7 @@ I am a passionate software engineer and AI developer from Pakistan with over 6 y
 
 Currently, my primary focus lies in backend development using Python, alongside exploring generative AI and data engineering. I enjoy bridging the gap between technology and innovation, continuously improving my skills to build impactful and world-class projects. <br><br>
 
-## Languages and Tools: <br>
+## Tools and Technologies: <br>
 
 <div align="center">
   <!-- Python -->
