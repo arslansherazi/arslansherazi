@@ -90,7 +90,7 @@ Currently, my primary focus lies in backend development using Python, alongside 
   <!-- Jupyter -->
                     <img src="https://user-images.githubusercontent.com/49757918/196779564-dceefac1-5f06-4db9-98ce-3ac3c7fb1d31.png" width="50" height="60" style="margin-top: 20px" />&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Cursor -->
-                    <img src="https://github.com/user-attachments/assets/3347416b-6088-49c0-a20a-fbe27b7721c6" width="60" height="60" style="margin-top: 20px" />&nbsp;&nbsp;&nbsp;&nbsp;
+                    <img src="https://github.com/user-attachments/assets/3347416b-6088-49c0-a20a-fbe27b7721c6" width="50" height="50" style="margin-top: 20px" />&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 
