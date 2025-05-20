@@ -82,7 +82,7 @@ Currently, my primary focus lies in backend development using Python, alongside 
   <!-- Seaborn -->
               <img src="https://user-images.githubusercontent.com/49757918/196777990-1ca0ca17-d788-4762-83ca-1ca5bdab9585.png" width="150" height="45" style="margin-top: 20px" />&nbsp;&nbsp;&nbsp;&nbsp; <br><br>
   <!-- Langchain -->
-              <img src="https://github.com/user-attachments/assets/ae078b2a-4c11-4a0e-a1db-a7835ea90b2e" width="230" height="45" style="margin-top: 20px" /> <br><br>
+              <img src="https://github.com/user-attachments/assets/ae078b2a-4c11-4a0e-a1db-a7835ea90b2e" width="250" height="45" style="margin-top: 20px" /> <br><br>
   <!-- vs code -->
                 <img src="https://user-images.githubusercontent.com/49757918/196778846-8c4e2df3-aec2-4694-b581-cc5b3989e27f.png" width="50" height="45" style="margin-top: 20px" />&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Pycharm -->
