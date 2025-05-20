@@ -67,6 +67,8 @@ Currently, my primary focus lies in backend development using Python, alongside 
         <img src="https://user-images.githubusercontent.com/49757918/196775744-96bfc9a5-4c53-45c7-aadd-c7f78e0cd8b2.png" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Pandas -->
       <img src="https://user-images.githubusercontent.com/49757918/196776237-ff33ec98-3d75-404e-bcee-bd3072ac7f1e.png" width="90" height="45" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <!-- PySpark -->
+      <img src="https://github.com/user-attachments/assets/b6d2ed61-96a3-4a72-b14e-adef19861be3" width="100" height="45" />&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- numpy -->
         <img src="https://user-images.githubusercontent.com/49757918/196777277-bfc21317-9085-47e2-89a3-cfbbe32d88e6.png" width="90" height="60" style="margin-top: 20px" />
   <!-- Scikit Learn -->
@@ -92,10 +94,3 @@ Currently, my primary focus lies in backend development using Python, alongside 
   <!-- Cursor -->
                     <img src="https://github.com/user-attachments/assets/3347416b-6088-49c0-a20a-fbe27b7721c6" width="50" height="50" style="margin-top: 20px" />&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
-
-
-
-
-
-
-
