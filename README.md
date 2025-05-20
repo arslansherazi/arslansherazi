@@ -30,7 +30,7 @@ Currently, my primary focus lies in backend development using Python, alongside 
   <!-- Flask -->
       <img src="https://github.com/user-attachments/assets/60d8ce93-ce5f-4b6a-a8ec-547cf12381d9" width="70" height="45" />&nbsp;
   <!-- Fast API -->
-        <img src="https://user-images.githubusercontent.com/49757918/196780239-3b2fb594-c6ef-432a-838d-e0e38c25dc88.png" width="80" height="50" />
+        <img src="https://user-images.githubusercontent.com/49757918/196780239-3b2fb594-c6ef-432a-838d-e0e38c25dc88.png" width="80" height="50" /><br><br>
       <!-- MySQL -->
   <img src="https://user-images.githubusercontent.com/49757918/196773040-6b78c72a-fe40-48b2-9914-43bc0e68df00.png" width="60" height="55" />&nbsp;&nbsp;
   <!-- Postresql -->
