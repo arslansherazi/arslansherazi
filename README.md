@@ -6,7 +6,7 @@ I am a passionate software engineer and AI developer from Pakistan with over 6 y
 
 ## Core Skills & Expertise:
 
-<b>Backend Development:</b> Proficient in Python (Django, Flask, FastAPI) and Golang, with expertise in building robust APIs and efficient backend services.<br>
+<b>Backend Development:</b> Proficient in Python (Django, Flask, FastAPI), with expertise in building robust APIs and efficient backend services.<br>
 <b>AI & Generative AI:</b> Skilled in working with AI stacks, particularly generative AI frameworks using LangChain.<br>
 <b>Data Engineering:</b> Experienced in data processing, analysis, and visualization using libraries such as Pandas, NumPy, and Matplotlib.<br>
 <b>Cloud Computing:</b> Adept at deploying scalable applications on cloud platforms like AWS and GCP.<br>
@@ -18,7 +18,7 @@ I am a passionate software engineer and AI developer from Pakistan with over 6 y
 - A proactive learner, always staying updated with the latest advancements in the tech industry.
 - Versatile experience across various domains, including backend development, data scraping, data science, machine learning and Gen AI.
 
-Currently, my primary focus lies in backend development using Python and Golang, alongside exploring generative AI and data engineering. I enjoy bridging the gap between technology and innovation, continuously improving my skills to build impactful and world-class projects. <br><br>
+Currently, my primary focus lies in backend development using Python, alongside exploring generative AI and data engineering. I enjoy bridging the gap between technology and innovation, continuously improving my skills to build impactful and world-class projects. <br><br>
 
 ## Languages and Tools: <br>
 
@@ -31,8 +31,6 @@ Currently, my primary focus lies in backend development using Python and Golang,
       <img src="https://github.com/user-attachments/assets/60d8ce93-ce5f-4b6a-a8ec-547cf12381d9" width="70" height="45" />&nbsp;
   <!-- Fast API -->
         <img src="https://user-images.githubusercontent.com/49757918/196780239-3b2fb594-c6ef-432a-838d-e0e38c25dc88.png" width="80" height="50" />
-    <!-- Go Lang -->
-    <img src="https://user-images.githubusercontent.com/49757918/196774640-982e379f-e883-4697-ad26-b47c42b42480.png" width="90" height="45" /><br><br>
       <!-- MySQL -->
   <img src="https://user-images.githubusercontent.com/49757918/196773040-6b78c72a-fe40-48b2-9914-43bc0e68df00.png" width="60" height="55" />&nbsp;&nbsp;
   <!-- Postresql -->
