@@ -1,3 +1,4 @@
+![cursor](https://github.com/user-attachments/assets/3347416b-6088-49c0-a20a-fbe27b7721c6)
 ## Hi I am Arslan Haider Sherazi 👋
 
 <b> Experienced Software Engineer | Backend Specialist | AI Enthusiast </b>
@@ -90,6 +91,9 @@ Currently, my primary focus lies in backend development using Python, alongside 
   <!-- Jupyter -->
                     <img src="https://user-images.githubusercontent.com/49757918/196779564-dceefac1-5f06-4db9-98ce-3ac3c7fb1d31.png" width="50" height="60" style="margin-top: 20px" />&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
+  <!-- Cursor -->
+                    <img src="https://user-images.githubusercontent.com/49757918/e847d121-2aa1-4dcf-a09f-81e24e1c050b.png" width="50" height="60" style="margin-top: 20px" />&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 
 
