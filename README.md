@@ -76,7 +76,7 @@ Currently, my primary focus lies in backend development using Python, alongside 
   <!-- keras -->
                 <img src="https://user-images.githubusercontent.com/49757918/196778214-a9478082-092b-499e-a91a-9c5d74da6d0d.png" width="50" height="45" style="margin-top: 20px" />&nbsp;&nbsp;&nbsp;&nbsp;
     <!-- Pytorch -->
-                <img src="https://user-images.githubusercontent.com/49757918/196958930-c82d22de-4ecd-4a6e-845d-4507b73d6d91.png" width="50" height="45" style="margin-top: 20px" />&nbsp;&nbsp;&nbsp;&nbsp;
+                <img src="https://user-images.githubusercontent.com/49757918/196958930-c82d22de-4ecd-4a6e-845d-4507b73d6d91.png" width="50" height="45" style="margin-top: 20px" />&nbsp;&nbsp;&nbsp;&nbsp; <br><br>
   <!-- matplotlib -->
             <img src="https://user-images.githubusercontent.com/49757918/196777832-58706a36-5e97-4b94-86c7-bfeff3ed4087.png" width="150" height="50" style="margin-top: 20px" />&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Seaborn -->
