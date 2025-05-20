@@ -47,6 +47,8 @@ Currently, my primary focus lies in backend development using Python, alongside 
   <img src="https://user-images.githubusercontent.com/49757918/196772836-401d2088-6dd6-404d-ad84-f47ff2e2aad7.png" width="60" height="45" />&nbsp;&nbsp;&nbsp;&nbsp;
     <!-- GCP -->
     <img src="https://user-images.githubusercontent.com/49757918/196780928-de7713d9-80f3-4930-9507-ec073dd00af2.png" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <!-- Azure -->
+    <img src="https://github.com/user-attachments/assets/9e6754c6-94c5-4697-8afa-01726e8ded36.png" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
         <!-- GIT -->
     <img src="https://user-images.githubusercontent.com/49757918/197027845-d2a2e578-bebe-4539-a664-fbf5a56f32ca.png" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
         <!-- Docker -->
@@ -94,4 +96,3 @@ Currently, my primary focus lies in backend development using Python, alongside 
   <!-- Cursor -->
                     <img src="https://github.com/user-attachments/assets/3347416b-6088-49c0-a20a-fbe27b7721c6" width="50" height="50" style="margin-top: 20px" />&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
-
