@@ -9,7 +9,7 @@ I am a passionate software engineer and AI developer from Pakistan with over 6 y
 <b>Backend Development:</b> Proficient in Python (Django, Flask, FastAPI), with expertise in building robust APIs and efficient backend services.<br>
 <b>AI & Generative AI:</b> Skilled in working with AI stacks, particularly generative AI frameworks using LangChain.<br>
 <b>Data Engineering:</b> Experienced in data processing, analysis, and visualization using libraries such as Pandas, NumPy, and Matplotlib.<br>
-<b>Cloud Computing:</b> Adept at deploying scalable applications on cloud platforms like AWS and GCP.<br>
+<b>Cloud Computing:</b> Adept at deploying scalable applications on cloud platforms like AWS, GCP & Azure.<br>
 <b>Frontend Development:</b> Intermediate-level knowledge of HTML, CSS, JavaScript, and ReactJS, with experience in building user-friendly web and mobile interfaces.<br>
 
 ## What Sets Me Apart:
@@ -48,7 +48,7 @@ Currently, my primary focus lies in backend development using Python, alongside 
     <!-- GCP -->
     <img src="https://user-images.githubusercontent.com/49757918/196780928-de7713d9-80f3-4930-9507-ec073dd00af2.png" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
       <!-- Azure -->
-    <img src="https://github.com/user-attachments/assets/9e6754c6-94c5-4697-8afa-01726e8ded36.png" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/user-attachments/assets/f46e4d8f-f078-4d08-893e-a9f7f40c8f2b" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
         <!-- GIT -->
     <img src="https://user-images.githubusercontent.com/49757918/197027845-d2a2e578-bebe-4539-a664-fbf5a56f32ca.png" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
         <!-- Docker -->
